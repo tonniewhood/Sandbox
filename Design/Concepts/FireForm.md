@@ -1,20 +1,25 @@
 
 # FireForm
 
+A data-driven, user first product designed to provide shooters with reliable information to improve their shooting skills.
 
 ## Problem
+
 Many shooters (myself included) struggle to gain useful feedback when training with their firearms. With expensive coaching prices and limited experts available, improving shooting form can be difficult. Additionally, even with shooting partners and coaches, getting useful data can be difficult and expensive with rising ammo prices.
 
 ## Target Users
+
 1. Recreational Shooters
 2. Concealed Weapon Carriers
 3. LEO and military (SOF?)
 4. Competition Shooters
 
 ## Description
+
 The FireForm is a training aid designed to provide the user with data on their firing form and characteristics. By providing data about the motion of the barrel, the FireForm is able to inform the user of motion in all 3 directions and how that relates to shooting characteristics such as muzzle rise and trigger jerk. The data can then be used in training exercises (both builtin and user defined) to help the user improve their firing form in both dry and live fire scenarios.
 
 ## Core Ideas
+
 The system is designed with 3 core sections in mind.
 
 1. Barrel Attachment
@@ -37,6 +42,7 @@ The system is designed with 3 core sections in mind.
     - This model would also allow for analysis of a training drill and give the user insight into their performance.
 
 ## Key Benefits
+
 This system has several benefits over simple, individual training. These include
 
 1. "Outside" feedback to user performance
@@ -46,6 +52,7 @@ This system has several benefits over simple, individual training. These include
 5. Additional data to assist in training
 
 ## Challenges
+
 There will be several challenges associated with making a product of this nature. There include:
 
 1. Reliable data gathering
@@ -71,9 +78,24 @@ There will be several challenges associated with making a product of this nature
 
 ## Useful Technologies
 
+- Embedded Development
+- AI (DNN more than likely)
+- Bluetooth Module (XBee for testing)
+- IOS/Andrio Development
+- Useful pacakges (Update as necessary)
+  - N/A
+
 ## Future Extensions
+
+- Laser integration (POA/POI)
+  - Camera to view laser POA and then bullet POI
+  - Laser Adjustment to show predicted POI
 
 ## Test Audience
 
-## Competition
+- Ryan Bones
+- Cody Brklasich
+- Travis Potter
+
+## Competition [Opional]
 
