@@ -97,5 +97,5 @@ There will be several challenges associated with making a product of this nature
 - Cody Brklasich
 - Travis Potter
 
-## Competition [Opional]
+## Competition [Optional]
 
