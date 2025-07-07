@@ -90,6 +90,7 @@ There will be several challenges associated with making a product of this nature
 - Laser integration (POA/POI)
   - Camera to view laser POA and then bullet POI
   - Laser Adjustment to show predicted POI
+- Other motion tracking systems (Sports and Performers)
 
 ## Test Audience
 
